@@ -1,0 +1,41 @@
+CLACKY — mechanical keyboard sounds for your Mac
+================================================
+
+INSTALL (one time, about 1 minute)
+
+1. Drag Clacky into the Applications folder.
+
+2. Open Terminal (press ⌘ Space, type "Terminal", press Return),
+   paste this line and press Return:
+
+   xattr -cr /Applications/Clacky.app && chmod +x /Applications/Clacky.app/Contents/MacOS/Clacky && open /Applications/Clacky.app
+
+   Clacky isn't from the App Store, so macOS blocks it with
+   "can't be opened". This line tells macOS it's OK and opens it.
+
+   No Terminal? In Finder, right-click (Control-click) Clacky → Open → Open.
+   On macOS 15 Sequoia: try to open it once, then go to
+   System Settings → Privacy & Security, scroll down, click "Open Anyway".
+
+3. Clacky asks for "Input Monitoring" so it can hear your key presses.
+   In System Settings → Privacy & Security → Input Monitoring, turn Clacky ON.
+   If the menu bar icon still shows a ⚠️, click it and press "Restart Clacky".
+
+4. Type anything — you should hear it.
+
+USING IT
+
+• Click the keyboard icon in the menu bar: switch sound on/off, change volume,
+  and pick a sound (Thocky, Creamy, Clacky, Clicky, Fun).
+• Tap ☆ next to a sound to keep it in Favorites.
+• Right-click the icon for a quick favorites switcher.
+• Works with the built-in keyboard and any USB or Bluetooth keyboard.
+• Settings → General → "Launch at login" to start it automatically.
+
+PRIVACY
+
+Clacky only reads which key was pressed to pick a sound.
+It never records or sends what you type, and macOS hides
+password fields from it entirely.
+
+Works on macOS 13 Ventura or newer, Apple Silicon and Intel Macs.

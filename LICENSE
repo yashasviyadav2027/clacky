@@ -1,0 +1,30 @@
+Clacky License
+
+Copyright (c) 2026 Yashasvi Yadav. All rights reserved.
+
+Clacky is free to download and use, but it is not open source.
+
+You MAY:
+  - Download the Clacky app from this repository's Releases page and use it,
+    for free, on any number of your own Macs, personally or at work.
+  - Read the source code in this repository.
+
+You MAY NOT, without the copyright holder's prior written permission:
+  - Modify the source code or the app, or create derivative works from them.
+  - Redistribute, sell, sublicense or republish the source code or the app,
+    modified or unmodified, including under a different name.
+  - Use any part of the source code in another project.
+
+Only the copyright holder may change the code. Bug reports and suggestions
+are welcome through GitHub Issues.
+
+Third-party material is not covered by this license: the switch recordings in
+Resources/Packs/ come from kbsim and remain under their MIT license
+(see Resources/Packs/LICENSE-kbsim.md).
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
+IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
